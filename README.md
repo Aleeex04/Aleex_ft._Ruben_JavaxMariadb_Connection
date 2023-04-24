@@ -1,5 +1,5 @@
 # Aleex_ft._Ruben_JavaxMariadb_Connection
-Este repositorio contiene un proyecto de Java que muestra cómo conectar con una base de datos MariaDB usando el driver JDBC.
+Este repositorio contiene un proyecto de Java que muestra cómo conectar con una base de datos MariaDB usando JPA.
 
 ## Requisitos
 1. Java 8 o superior
