@@ -12,7 +12,7 @@ Este repositorio contiene un proyecto de Java que muestra cómo conectar con una
 1. Clona el repositorio en tu máquina local usando el comando git clone https://github.com/Aleeex04/Aleex_ft._Ruben_JavaxMariadb_Connection.git
 2. Abre el proyecto con tu IDE favorito (Eclipse, IntelliJ IDEA, etc.)
 3. Ejecuta el comando mvn clean install para compilar el proyecto y generar el archivo JAR ejecutable
-4. Crea una base de datos MariaDB con el nombre aleex_ruben y ejecuta el script SQL que se encuentra en el archivo src/main/resources/aleex_ruben.sql para crear las tablas e insertar algunos datos de prueba
+4. Crea una base de datos MariaDB con el nombre aleex_ruben
 5. Modifica el archivo src/main/resources/config.properties con los datos de conexión a tu base de datos (usuario, contraseña, host y puerto)
 Uso
 
